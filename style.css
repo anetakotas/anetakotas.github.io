@@ -1,6 +1,18 @@
 * {
     font-family: 'Lato', sans-serif;
 }
+
+body {
+    background-color: rgb(157, 223, 249);
+}
+
 img {
     width: 350px;
+}
+
+.showcase {
+    padding: 20px;
+    background-color: white;
+    width: 1100px;
+    margin-bottom: 20px;
 }
